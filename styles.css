@@ -32,12 +32,14 @@ body::before {
 
 h1 {
     color: #270404;
+    font-family: "Curlz MT", fantasy;
     font-size: 75px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow to the font */
 }
 
 h2 {
     color: #270404;
+    font-family: "Curlz MT", fantasy;
     font-size: 43px;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow to the font */
 }

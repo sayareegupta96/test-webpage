@@ -9,6 +9,7 @@ window.addEventListener('DOMContentLoaded', function() {
 
     // Example: Dynamic greeting (could be extended)
     var h1 = document.querySelector('h1');
+    var h2 = document.querySelector('h2');
     if (h1) {
         h1.textContent = 'Happy 4th Anniversary!';
     }
