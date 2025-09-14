@@ -44,6 +44,13 @@ h2 {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow to the font */
 }
 
+h3 {
+    color: #270404;
+    font-family: "Curlz MT", fantasy;
+    font-size: 28px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
 
 .button {
     background-color: #540204; /* Pink background */

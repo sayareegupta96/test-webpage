@@ -9,11 +9,11 @@ window.addEventListener('DOMContentLoaded', function() {
 
     // Example: Dynamic greeting (could be extended)
     var h1 = document.querySelector('h1');
-    var h2 = document.querySelector('h2');
+    var h3 = document.querySelector('h3');
     if (h1) {
         h1.textContent = 'Thank you for your earnest service!';
     }
-    if (h2) {
+    if (h3) {
         h2.textContent = 'Wishing you many more successful years with the company.';
     }
 });
