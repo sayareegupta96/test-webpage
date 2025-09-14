@@ -10,6 +10,9 @@ window.addEventListener('DOMContentLoaded', function() {
     // Example: Dynamic greeting (could be extended)
     var h1 = document.querySelector('h1');
     if (h1) {
-        h1.textContent = 'Congratulations on 4 year anniversary!';
+        h1.textContent = 'Happy 4th Anniversary!';
+    }
+    if (h2) {
+        h2.textContent = 'Round of applause for your dedication, drive and commitment.';
     }
 });

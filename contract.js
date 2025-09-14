@@ -10,6 +10,6 @@ window.addEventListener('DOMContentLoaded', function() {
     // Example: Dynamic greeting (could be extended)
     var h1 = document.querySelector('h1');
     if (h1) {
-        h1.textContent = 'Here is your extension voucher.';
+        h1.textContent = 'Here is the voucher for your extension.';
     }
 });

@@ -36,6 +36,13 @@ h1 {
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow to the font */
 }
 
+h2 {
+    color: #270404;
+    font-size: 43px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add shadow to the font */
+}
+
+
 .button {
     background-color: #540204; /* Pink background */
     color: rgb(252, 200, 237); /* black text */
